@@ -102,7 +102,7 @@ _Note._ Weekly plan described above can be adjusted as our class develops. (R): 
 [W7] 
 
 - Berridge, Kent C. 2019. “Affective Valence in the Brain: Modules or Modes?” Nature Reviews. Neuroscience, February, 1.
-- Damasio, Antonio, and Gil B. Carvalho. 2013. “The Nature of Feelings: Evolutionary and Neurobiological Origins.” Nature Reviews. Neuroscience 14 (2): 143–52.
+- Damasio, Antonio, and Gil B. Carvalho. 2013. “The Nature of Feelings: Evolutionary and Neurobiological Origins.” Nature Reviews. Neuroscience 14 (2): 143–52. (이성우)
 
 
 [W9: integrate]
