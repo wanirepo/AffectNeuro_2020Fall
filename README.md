@@ -6,7 +6,7 @@
 - Office: N-center, 86335
 - Web: [Cocoan lab](http://cocoanlab.github.io)
 - E-mail: choongwan.woo@gmail.com
-- Class: Friday 12:00-3:00PM at 86314 - it can be changed.
+- Class: Friday 12:00-3:00PM (online, but offline later).
 - Office hours: Wed 10:30-12:00, you can book a time in advance through [https://choongwanwoo.youcanbook.me](https://choongwanwoo.youcanbook.me)
 
 <br>
@@ -26,27 +26,23 @@ There is a good github tutorial: [https://rogerdudler.github.io/git-guide/index.
 
 ## What are the aims of this course?
 
-Joyful, happy, sad, angry, disgusting, painful, bored... we experience these emotions all the time, and these experience keep changing every moment. How can we "define" emotions? How can we "study" emotions? What are the "bodily factors" that influence emotions? How we "measure" bodily response of emotions? What are the "brain representations" of emotions? Are emotions same with affect or feelings? How can we model the "dynamics" of emotions? What are the underlying problems in emotional disorders, like anxiety and depression? etc. There are so many interesting questions about emotions. In this class, you will first learn methodologies for affective neuroscience (focusing on fMRI; for this, we will use Tor and Martin's [coursera](https://www.youtube.com/channel/UC_BIby85hZmcItMrkAlc8eA) materials), and learn some key topics of affective neuroscience. We will also read and discuss some key papers (one or two papers per week) in affective neurosciences together. 
+Joyful, happy, sad, angry, disgusting, painful, bored... we experience these emotions all the time, and these experience keep changing every moment. How can we "define" emotions? How can we "study" emotions? What are the "bodily factors" that influence emotions? How we "measure" bodily response of emotions? What are the "brain representations" of emotions? Are emotions same with affect or feelings? How can we model the "dynamics" of emotions? What are the underlying problems in emotional disorders, like anxiety and depression? etc. There are so many interesting questions about emotions. In this class, you will learn some key topics of affective neuroscience. We will also read and discuss some key papers (one or two papers per week) in affective neurosciences together. 
 
 ## Course format and expectations
 
-This course will consist of three parts--fMRI methods, lectures, and paper presentations. First, for the fMRI methods, you will be asked to watch the video lectures before coming to the class. We will do a brief Q&A (first 10 - 20 mins) for the fMRI methods. Second, I will give a brief lecture (~30 mins) for an affective neuroscience topic for each week. Note that many of my lectures will re-use my PhD advisor Tor Wager's Affective Neuroscience class slides. Third, you will give presentations on the papers related to the topic, and we will have a discussion about the paper. We will use English as the main language, but you can use Korean to ask questions and discuss. 
+This course will consist of two parts--lectures and paper presentations. First, for the first 40 or so minutes, we will watch a lecture on an affective neuroscience topic together. The lecture could be my lecture (pre-recorded) or other affective neuroscientists' lecture. We will watch these videos together. Second, for the other 60-90 mins, two students will give presentations on the important papers on affective neuroscience, and we will have a discussion about the paper. We will use English as the main language, but you can use Korean to ask questions and discuss. 
 
 ## Evaluation
 
-1. Attendance (30%)
-2. Discussion participation (30%)
-3. Presentation (15%)
-4. Method assignment (10%)
-5. Final paper/presentation (15%)
+1. Attendance (40%)
+2. Discussion participation (20%)
+3. Presentation (20%)
+4. Term paper (20%)
 
-## Method writing assignment
-
-As a mid-term assignment, you will be asked to write and submit a method section of the paper that you are working on. If you don't have a working paper, please submit one-page proposal explaining what you will write for the term paper. Deadline: 6PM 5/11 (Friday)
 
 ## Term paper
 
-You can choose one among the following three options. (1) You can submit a research paper draft if your research topic is related to emotions. The paper should have at least three parts of the full article (e.g., Introduction, Methods, and Results, or Introduction, Results, and Discussion, etc.) (2) You can write about your own research idea on emotions with an experiment plan and design. In this case, you need to write introduction and method sections. ~5 pages (12 pt, line spacing 1.5) (3) You can write about a "perspective" type piece on any issues related to emotion research. Free format, ~5 pages. You will be presenting your final paper on the last day of the class (6/21). We will have dinner together afterwards!
+You can choose one among the following three options. (1) You can submit a research paper draft if your research topic is related to emotions. The paper should have at least three parts of the full article (e.g., Introduction, Methods, and Results, or Introduction, Results, and Discussion, etc.) (2) You can write about your own research idea on emotions with an experiment plan and design. In this case, you need to write introduction and method sections. ~5 pages (12 pt, line spacing 1.5) (3) You can write about a "perspective" type piece on any issues related to emotion research. Free format, ~5 pages. 
 
 
 
@@ -57,9 +53,9 @@ Week  |  Lecture | Paper
 Week 1 (9/4)  | Class overview | Paper Assignment
 Week 2 (9/11) | Affective neuroscience | TBD |
 Week 3 (9/18) | Brain anatomy | TBD |
-Week 4 (9/25) | 건학기념일  | no class
+Week 4 (9/25) | 건학기념일 (video)  | no class
 Week (10/2) | 추석  | no class
-Week 5 (10/9) | 한글날  | no class
+Week 5 (10/9) | 한글날 (video) | no class
 Week 6 (10/16) | Affective brain systems | TBD
 Week 7 (10/23) | Pleasure and desire | TBD
 Week 8 (10/30) | mid-term | 
