@@ -103,7 +103,10 @@ Craig, a. D. Bud. 2009. “How Do You Feel–now? The Anterior Insula and Human 
 - Damasio, Antonio, and Gil B. Carvalho. 2013. “The Nature of Feelings: Evolutionary and Neurobiological Origins.” Nature Reviews. Neuroscience 14 (2): 143–52.
 
 - Barrett, Lisa Feldman, and W. Kyle Simmons. 2015. “Interoceptive Predictions in the Brain.” Nature Reviews. Neuroscience 16 (July). https://doi.org/10.1038/nrn3950.
-Chanes, Lorena, and Lisa Feldman Barrett. 2016. “Redefining the Role of Limbic Areas in Cortical Processing.” Trends in Cognitive Sciences 20 (2): 96–106.
+
+ - Chanes, Lorena, and Lisa Feldman Barrett. 2016. “Redefining the Role of Limbic Areas in Cortical Processing.” Trends in Cognitive Sciences 20 (2): 96–106.
+
+- Lisa Feldman Barrett, Batja Mesquita, and Eliot R. Smith, 2010, "The Context Principle", The Mind in Context, Chapter 1, p.1-24
 
 - Barbas, H. (2015) General cortical and special prefrontal con- nections: principles from structure to function. Annu. Rev. Neuro- sci. 38, 269–289
 
