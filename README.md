@@ -30,7 +30,7 @@ Joyful, happy, sad, angry, disgusting, painful, bored... we experience these emo
 
 ## Course format and expectations
 
-This course will consist of two parts--lectures and paper presentations. First, for the first 40 or so minutes, we will watch a lecture on an affective neuroscience topic together. The lecture could be my lecture (pre-recorded) or other affective neuroscientists' lecture. We will watch these videos together. Second, for the other 60-90 mins, two students will give presentations on the important papers on affective neuroscience, and we will have a discussion about the paper. We will use English as the main language, but you can use Korean to ask questions and discuss. 
+This course will consist of two parts--lectures and paper presentations. First, for the first 40 or so minutes, we will watch a lecture on an affective neuroscience topic together. The lecture could be my lecture (pre-recorded) or other affective neuroscientists' lecture. We will watch these videos together. Second, for the other 60-90 mins, two students will give presentations on the important papers on affective neuroscience, and we will have a discussion about the paper. Each student will present one paper. We will use English as the main language, but you can use Korean to ask questions and discuss. 
 
 ## Evaluation
 
@@ -72,50 +72,94 @@ _Note._ Weekly plan described above can be adjusted as our class develops. (R): 
 
 ## Books (not required)
 
-Elizabeth Johnston & Leah Olson, "The Feeling Brain: The Biology and Psychology of Emotions", 2015<br>
-Lisa Feldman Barrett, "How Emotions Are Made: The Secret Life of the Brain", 2017<br>
-Jaak Panksepp, "Affective Neuroscience: The Foundations of Human and Animal Emotions", 1998<br>
+- Andrew Fox, Regina Lapate, Alexander Shackman, Richard Davidson, "The Nature of Emotion: Fundamental questions", 2018
+- Jorge Armony, Patrik Vulleumier, "The Cambridge Handbook of Human Affective Neuroscience", 2013
+- Elizabeth Johnston & Leah Olson, "The Feeling Brain: The Biology and Psychology of Emotions", 2015
+- Lisa Feldman Barrett, "How Emotions Are Made: The Secret Life of the Brain", 2017
+- Jaak Panksepp, "Affective Neuroscience: The Foundations of Human and Animal Emotions", 1998
 
 
 ## Papers (in progress)
 
-- MacLEAN, P. D. 1949. “Psychosomatic Disease and the Visceral Brain; Recent Developments Bearing on the Papez Theory of Emotion.” Psychosomatic Medicine 11 (6): 338–53.
- - (Pogliano, Claudio. 2017. “Lucky Triune Brain. Chronicles of Paul D. MacLean’s Neuro-Catchword.” Nuncius / Istituto E Museo Di Storia Della Scienza 32 (2): 330–75.)
-
-- Garcia, J., W. G. Hankins, and K. W. Rusiniak. 1974. “Behavioral Regulation of the Milieu Interne in Man and Rat.” Science 185 (4154): 824–31.
-
-- Mesulam, M. M. 1998. “From Sensation to Cognition.” Brain: A Journal of Neurology 121 ( Pt 6) (June): 1013–52.
-
-- Saper, Clifford B. 2002. “The Central Autonomic Nervous System: Conscious Visceral Perception and Autonomic Pattern Generation.” Annual Review of Neuroscience 25 (January): 433–69.
+[W2: integrate]
 
 - Craig, A. D. 2002. “How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body.” Nature Reviews. Neuroscience 3 (8): 655–66.
-Craig, a. D. Bud. 2009. “How Do You Feel–now? The Anterior Insula and Human Awareness.” Nature Reviews. Neuroscience 10 (1): 59–70.
- - Craig, A. D. (bud). 2003. “PAIN MECHANISMS: Labeled Lines Versus Convergence in Central Processing.” Annual Review of Neuroscience 26 (1): 1–30.
+- Craig, a. D. Bud. 2009. “How Do You Feel–now? The Anterior Insula and Human Awareness.” Nature Reviews. Neuroscience 10 (1): 59–70.
 
-- Buckner, Randy L., and Daniel C. Carroll. 2007. “Self-Projection and the Brain.” Trends in Cognitive Sciences 11 (2): 49–57.
 
-- Price, Joseph L., and Wayne C. Drevets. 2012. “Neural Circuits Underlying the Pathophysiology of Mood Disorders.” Trends in Cognitive Sciences 16 (1): 61–71.
+[W3]
 
+- Garcia, J., W. G. Hankins, and K. W. Rusiniak. 1974. “Behavioral Regulation of the Milieu Interne in Man and Rat.” Science 185 (4154): 824–31.
+- Adolphs, Ralph. 2017. “How Should Neuroscience Study Emotions? By Distinguishing Emotion States, Concepts, and Experiences.” Social Cognitive and Affective Neuroscience 12 (1): 24–31.
+
+
+[W6: integrate]
+
+- MacLEAN, P. D. 1949. “Psychosomatic Disease and the Visceral Brain; Recent Developments Bearing on the Papez Theory of Emotion.” Psychosomatic Medicine 11 (6): 338–53.
+- Pogliano, Claudio. 2017. “Lucky Triune Brain. Chronicles of Paul D. MacLean’s Neuro-Catchword.” Nuncius / Istituto E Museo Di Storia Della Scienza 32 (2): 330–75.
+
+
+[W7] 
+
+- Berridge, Kent C. 2019. “Affective Valence in the Brain: Modules or Modes?” Nature Reviews. Neuroscience, February, 1.
 - Damasio, Antonio, and Gil B. Carvalho. 2013. “The Nature of Feelings: Evolutionary and Neurobiological Origins.” Nature Reviews. Neuroscience 14 (2): 143–52.
 
+
+[W9: integrate]
+
 - Barrett, Lisa Feldman, and W. Kyle Simmons. 2015. “Interoceptive Predictions in the Brain.” Nature Reviews. Neuroscience 16 (July). https://doi.org/10.1038/nrn3950.
+- Chanes, Lorena, and Lisa Feldman Barrett. 2016. “Redefining the Role of Limbic Areas in Cortical Processing.” Trends in Cognitive Sciences 20 (2): 96–106.
 
- - Chanes, Lorena, and Lisa Feldman Barrett. 2016. “Redefining the Role of Limbic Areas in Cortical Processing.” Trends in Cognitive Sciences 20 (2): 96–106.
 
-- Lisa Feldman Barrett, Batja Mesquita, and Eliot R. Smith, 2010, "The Context Principle", The Mind in Context, Chapter 1, p.1-24
+[W10]
+
+- Craig, A. D. (bud). 2003. “PAIN MECHANISMS: Labeled Lines Versus Convergence in Central Processing.” Annual Review of Neuroscience 26 (1): 1–30.
+- Raja, Srinivasa N., Daniel B. Carr, Milton Cohen, Nanna B. Finnerup, Herta Flor, Stephen Gibson, Francis J. Keefe, et al. 2020. “The Revised International Association for the Study of Pain Definition of Pain: Concepts, Challenges, and Compromises.” Pain Articles in Press (July). https://doi.org/10.1097/j.pain.0000000000001939.
+
+[W11]
 
 - Barbas, H. (2015) General cortical and special prefrontal con- nections: principles from structure to function. Annu. Rev. Neuro- sci. 38, 269–289
+- Mesulam, M. M. 1998. “From Sensation to Cognition.” Brain: A Journal of Neurology 121 ( Pt 6) (June): 1013–52.
+
+
+[W12]
+
+- Mobbs, Dean, Ralph Adolphs, Michael S. Fanselow, Lisa Feldman Barrett, Joseph E. LeDoux, Kerry Ressler, and Kay M. Tye. 2019. “Viewpoints: Approaches to Defining and Investigating Fear.” Nature Neuroscience 22 (8): 1205–16.
+- Treede, Rolf-Detlef, Winfried Rief, Antonia Barke, Qasim Aziz, Michael I. Bennett, Rafael Benoliel, Milton Cohen, et al. 2019. “Chronic Pain as a Symptom or a Disease: The IASP Classification of Chronic Pain for the International Classification of Diseases (ICD-11).” Pain 160 (1): 19–27.
+
+[W13]
 
 - Man, Kingson, and Antonio Damasio. 2019. “Homeostasis and Soft Robotics in the Design of Feeling Machines.” Nature Machine Intelligence 1 (10): 446–52.
+- Saper, Clifford B. 2002. “The Central Autonomic Nervous System: Conscious Visceral Perception and Autonomic Pattern Generation.” Annual Review of Neuroscience 25 (January): 433–69.
+
+
+[W14]
+
+- Lisa Feldman Barrett, Batja Mesquita, and Eliot R. Smith, 2010, "The Context Principle", The Mind in Context, Chapter 1, p.1-24
+- Buckner, Randy L., and Daniel C. Carroll. 2007. “Self-Projection and the Brain.” Trends in Cognitive Sciences 11 (2): 49–57.
+
+
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
 
 
 - Melzack, Ronald, and Patrick D. Wall. 1965. “Pain Mechanisms: A New Theory.” Science 150 (3699): 971–79.
  - Melzack, R. 1999. “From the Gate to the Neuromatrix.” Pain Suppl 6 (August): S121–26.
 
-- Berridge, Kent C. 2019. “Affective Valence in the Brain: Modules or Modes?” Nature Reviews. Neuroscience, February, 1.
-
-
 - Ledoux
+- Price, Joseph L., and Wayne C. Drevets. 2012. “Neural Circuits Underlying the Pathophysiology of Mood Disorders.” Trends in Cognitive Sciences 16 (1): 61–71.
 
 James Gross
 
@@ -124,10 +168,6 @@ Berridge
 Adolphs
 
 Melzack
-
-
-
-
 
 - Price2012(R): Neural circuits underlying the pathophysiology of mood disorders, TICS
 - Saper2002(R): The central autonomic nervous system: Conscious Visceral Perception and Autonomic Pattern Generation, Annu Rev Neurosci
