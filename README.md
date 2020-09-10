@@ -125,7 +125,7 @@ _Note._ Weekly plan described above can be adjusted as our class develops. (R): 
 [W12]
 
 - Mobbs, Dean, Ralph Adolphs, Michael S. Fanselow, Lisa Feldman Barrett, Joseph E. LeDoux, Kerry Ressler, and Kay M. Tye. 2019. “Viewpoints: Approaches to Defining and Investigating Fear.” Nature Neuroscience 22 (8): 1205–16. (이은진)
-- Treede, Rolf-Detlef, Winfried Rief, Antonia Barke, Qasim Aziz, Michael I. Bennett, Rafael Benoliel, Milton Cohen, et al. 2019. “Chronic Pain as a Symptom or a Disease: The IASP Classification of Chronic Pain for the International Classification of Diseases (ICD-11).” Pain 160 (1): 19–27.
+- Treede, Rolf-Detlef, Winfried Rief, Antonia Barke, Qasim Aziz, Michael I. Bennett, Rafael Benoliel, Milton Cohen, et al. 2019. “Chronic Pain as a Symptom or a Disease: The IASP Classification of Chronic Pain for the International Classification of Diseases (ICD-11).” Pain 160 (1): 19–27. (CHINH)
 
 [W13]
 
