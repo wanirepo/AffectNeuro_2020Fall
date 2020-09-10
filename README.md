@@ -51,20 +51,20 @@ You can choose one among the following three options. (1) You can submit a resea
 Week  |  Lecture | Paper 
 ------|  ----- | ----- 
 Week 1 (9/4)  | Class overview | Paper Assignment
-Week 2 (9/11) | Affective neuroscience | TBD |
-Week 3 (9/18) | Brain anatomy | TBD |
-Week 4 (9/25) | 건학기념일 (video)  | no class
-Week (10/2) | 추석  | no class
-Week 5 (10/9) | 한글날 (video) | no class
-Week 6 (10/16) | Affective brain systems | TBD
-Week 7 (10/23) | Pleasure and desire | TBD
+Week 2 (9/11) | Affective neuroscience | None |
+Week 3 (9/18) | Paper presentations | Garcia1974 (n), Adolphs2017 (n), Craig2002 (n) |
+Week 4 (9/25) | 건학기념일 (video)  | no class |
+Week (10/2) | 추석  | no class |
+Week 5 (10/9) | 한글날 (video) | no class |
+Week 6 (10/16) | Affective brain systems | MacLEAN1949 (n), Pogliano2017 (n) |
+Week 7 (10/23) | Pleasure and desire | Berridge2019 (n), Damasio2013 (Sungwoo) |
 Week 8 (10/30) | mid-term | 
-Week 9 (11/6) | Touch and nociception | TBD
-Week 10 (11/13) | Pain | TBD
-Week 11 (11/20) | Emotion theories and brain | TBD 
-Week 12 (11/27) | Desire/emotion regulation, embodiment | TBD
-Week 13 (12/4) | Unconscious affect | TBD
-Week 14 (12/11)  | Social Brain, Empathy | TBD
+Week 9 (11/6) | Touch and nociception | Barrett2015 (Hongji), Chanes2016 (Jiwon) |
+Week 10 (11/13) | Pain | Craig2003 (Donghee), Raja2020 (Lada)
+Week 11 (11/20) | Emotion theories and brain | Barbas2015 (Jihoon), Mesulam1998 (Jaejoong)
+Week 12 (11/27) | Desire/emotion regulation, embodiment | Mobbs2019 (Eunjin), Treede2019 (Chinh)
+Week 13 (12/4) | Unconscious affect, Social Brain, Empathy | Man2019 (Hyebin), Craig2009 (n)
+Week 14 (12/11)  | Self (Byeol) | Barrett2010 (Jungwoo), Buckner2007 (Noji)
 Week 15 (12/18) | Final | 
 
 _Note._ Weekly plan described above can be adjusted as our class develops. (R): Review paper. (E): Empirical paper
@@ -81,27 +81,21 @@ _Note._ Weekly plan described above can be adjusted as our class develops. (R): 
 
 ## Papers (in progress)
 
-[W2: integrate]
-
-- Craig, A. D. 2002. “How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body.” Nature Reviews. Neuroscience 3 (8): 655–66.
-- Craig, a. D. Bud. 2009. “How Do You Feel–now? The Anterior Insula and Human Awareness.” Nature Reviews. Neuroscience 10 (1): 59–70.
-
-
 [W3]
 
-- Garcia, J., W. G. Hankins, and K. W. Rusiniak. 1974. “Behavioral Regulation of the Milieu Interne in Man and Rat.” Science 185 (4154): 824–31.
-- Adolphs, Ralph. 2017. “How Should Neuroscience Study Emotions? By Distinguishing Emotion States, Concepts, and Experiences.” Social Cognitive and Affective Neuroscience 12 (1): 24–31.
-
+- (n) Garcia, J., W. G. Hankins, and K. W. Rusiniak. 1974. “Behavioral Regulation of the Milieu Interne in Man and Rat.” Science 185 (4154): 824–31.
+- (n) Adolphs, Ralph. 2017. “How Should Neuroscience Study Emotions? By Distinguishing Emotion States, Concepts, and Experiences.” Social Cognitive and Affective Neuroscience 12 (1): 24–31.
+- (n) Craig, A. D. 2002. “How Do You Feel? Interoception: The Sense of the Physiological Condition of the Body.” Nature Reviews. Neuroscience 3 (8): 655–66.
 
 [W6: integrate]
 
-- MacLEAN, P. D. 1949. “Psychosomatic Disease and the Visceral Brain; Recent Developments Bearing on the Papez Theory of Emotion.” Psychosomatic Medicine 11 (6): 338–53.
-- Pogliano, Claudio. 2017. “Lucky Triune Brain. Chronicles of Paul D. MacLean’s Neuro-Catchword.” Nuncius / Istituto E Museo Di Storia Della Scienza 32 (2): 330–75.
+- (n) MacLEAN, P. D. 1949. “Psychosomatic Disease and the Visceral Brain; Recent Developments Bearing on the Papez Theory of Emotion.” Psychosomatic Medicine 11 (6): 338–53.
+- (n) Pogliano, Claudio. 2017. “Lucky Triune Brain. Chronicles of Paul D. MacLean’s Neuro-Catchword.” Nuncius / Istituto E Museo Di Storia Della Scienza 32 (2): 330–75.
 
 
 [W7] 
 
-- Berridge, Kent C. 2019. “Affective Valence in the Brain: Modules or Modes?” Nature Reviews. Neuroscience, February, 1.
+- (n) Berridge, Kent C. 2019. “Affective Valence in the Brain: Modules or Modes?” Nature Reviews. Neuroscience, February, 1.
 - Damasio, Antonio, and Gil B. Carvalho. 2013. “The Nature of Feelings: Evolutionary and Neurobiological Origins.” Nature Reviews. Neuroscience 14 (2): 143–52. (이성우)
 
 
@@ -130,11 +124,12 @@ _Note._ Weekly plan described above can be adjusted as our class develops. (R): 
 [W13]
 
 - Man, Kingson, and Antonio Damasio. 2019. “Homeostasis and Soft Robotics in the Design of Feeling Machines.” Nature Machine Intelligence 1 (10): 446–52.(Hyebin Kim)
-- Saper, Clifford B. 2002. “The Central Autonomic Nervous System: Conscious Visceral Perception and Autonomic Pattern Generation.” Annual Review of Neuroscience 25 (January): 433–69.
+- (n) Craig, a. D. Bud. 2009. “How Do You Feel–now? The Anterior Insula and Human Awareness.” Nature Reviews. Neuroscience 10 (1): 59–70.
 
 
 [W14]
 
+- Byeol Kim's lecture on "self"
 - Lisa Feldman Barrett, Batja Mesquita, and Eliot R. Smith, 2010, "The Context Principle", The Mind in Context, Chapter 1, p.1-24 (김정우)
 - Buckner, Randy L., and Daniel C. Carroll. 2007. “Self-Projection and the Brain.” Trends in Cognitive Sciences 11 (2): 49–57. (노지)
 
