@@ -52,19 +52,19 @@ Week  |  Lecture | Paper
 ------|  ----- | ----- 
 Week 1 (9/4)  | Class overview | Paper Assignment
 Week 2 (9/11) | Affective neuroscience | None |
-Week 3 (9/18) | Paper presentations | Garcia1974 (n), Adolphs2017 (n), Craig2002 (n) |
+Week 3 (9/18) | Paper presentations | Garcia1974 (Jihoon+), Adolphs2017 (Jungwoo+), Craig2002 (Jiwon+) |
 Week 4 (9/25) | 건학기념일 (video)  | no class |
 Week (10/2) | 추석  | no class |
 Week 5 (10/9) | 한글날 (video) | no class |
-Week 6 (10/16) | Affective brain systems | MacLEAN1949 (n), Pogliano2017 (n) |
-Week 7 (10/23) | Pleasure and desire | Berridge2019 (n), Damasio2013 (Sungwoo) |
+Week 6 (10/16) | Affective brain systems | MacLEAN1949 (Lada+), Pogliano2017 (Chinh+) |
+Week 7 (10/23) | Pleasure and desire | Berridge2019 (Hyebin+), Damasio2013 (Sungwoo+) |
 Week 8 (10/30) | mid-term | 
-Week 9 (11/6) | Touch and nociception | Barrett2015 (Hongji), Chanes2016 (Jiwon) |
-Week 10 (11/13) | Pain | Craig2003 (Donghee), Raja2020 (Lada)
-Week 11 (11/20) | Emotion theories and brain | Barbas2015 (Jihoon), Mesulam1998 (Jaejoong)
-Week 12 (11/27) | Desire/emotion regulation, embodiment | Mobbs2019 (Eunjin), Treede2019 (Chinh)
-Week 13 (12/4) | Unconscious affect, Social Brain, Empathy | Man2019 (Hyebin), Craig2009 (n)
-Week 14 (12/11)  | Self (Byeol) | Barrett2010 (Jungwoo), Buckner2007 (Noji)
+Week 9 (11/6) | Touch and nociception | Barrett2015 (Hongji), Chanes2016 (Eunjin+) |
+Week 10 (11/13) | Pain | Craig2003 (Donghee+), Raja2020 (Lada+)
+Week 11 (11/20) | Emotion theories and brain | Barbas2015 (Jaejoong), Mesulam1998 (Noji+)
+Week 12 (11/27) | Desire/emotion regulation, embodiment | Mobbs2019 (Eunjin+), Treede2019 (Chinh+)
+Week 13 (12/4) | Unconscious affect, Social Brain, Empathy | Man2019 (Hyebin+), Craig2009 (Sungwoo+)
+Week 14 (12/11)  | Self (Byeol) | Barrett2010 (Donghee+), Buckner2007 (Noji+)
 Week 15 (12/18) | Final | 
 
 _Note._ Weekly plan described above can be adjusted as our class develops. (R): Review paper. (E): Empirical paper
