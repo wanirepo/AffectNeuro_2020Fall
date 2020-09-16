@@ -96,42 +96,43 @@ _Note._ Weekly plan described above can be adjusted as our class develops. (R): 
 [W7] 
 
 - (n) Berridge, Kent C. 2019. “Affective Valence in the Brain: Modules or Modes?” Nature Reviews. Neuroscience, February, 1.
-- Damasio, Antonio, and Gil B. Carvalho. 2013. “The Nature of Feelings: Evolutionary and Neurobiological Origins.” Nature Reviews. Neuroscience 14 (2): 143–52. (이성우)
+- Damasio, Antonio, and Gil B. Carvalho. 2013. “The Nature of Feelings: Evolutionary and Neurobiological Origins.” Nature Reviews. Neuroscience 14 (2): 143–52.
 
 
 [W9: integrate]
 
-- Barrett, Lisa Feldman, and W. Kyle Simmons. 2015. “Interoceptive Predictions in the Brain.” Nature Reviews. Neuroscience 16 (July). https://doi.org/10.1038/nrn3950. (Hongji)
-- Chanes, Lorena, and Lisa Feldman Barrett. 2016. “Redefining the Role of Limbic Areas in Cortical Processing.” Trends in Cognitive Sciences 20 (2): 96–106. (Jiwon)
+- Barrett, Lisa Feldman, and W. Kyle Simmons. 2015. “Interoceptive Predictions in the Brain.” Nature Reviews. Neuroscience 16 (July). https://doi.org/10.1038/nrn3950. 
+- Chanes, Lorena, and Lisa Feldman Barrett. 2016. “Redefining the Role of Limbic Areas in Cortical Processing.” Trends in Cognitive Sciences 20 (2): 96–106. 
 
 
 [W10]
 
-- Craig, A. D. (bud). 2003. “PAIN MECHANISMS: Labeled Lines Versus Convergence in Central Processing.” Annual Review of Neuroscience 26 (1): 1–30. (DONG HEE)
-- Raja, Srinivasa N., Daniel B. Carr, Milton Cohen, Nanna B. Finnerup, Herta Flor, Stephen Gibson, Francis J. Keefe, et al. 2020. “The Revised International Association for the Study of Pain Definition of Pain: Concepts, Challenges, and Compromises.” Pain Articles in Press (July). https://doi.org/10.1097/j.pain.0000000000001939. (Lada)
+- Craig, A. D. (bud). 2003. “PAIN MECHANISMS: Labeled Lines Versus Convergence in Central Processing.” Annual Review of Neuroscience 26 (1): 1–30. 
+- Raja, Srinivasa N., Daniel B. Carr, Milton Cohen, Nanna B. Finnerup, Herta Flor, Stephen Gibson, Francis J. Keefe, et al. 2020. “The Revised International Association for the Study of Pain Definition of Pain: Concepts, Challenges, and Compromises.” Pain Articles in Press (July). https://doi.org/10.1097/j.pain.0000000000001939. 
 
 [W11]
 
-- Barbas, H. (2015) General cortical and special prefrontal con- nections: principles from structure to function. Annu. Rev. Neuro- sci. 38, 269–289 (Jihoon)
-- Mesulam, M. M. 1998. “From Sensation to Cognition.” Brain: A Journal of Neurology 121 ( Pt 6) (June): 1013–52. (Jaejoong)
+- Barbas, H. (2015) General cortical and special prefrontal con- nections: principles from structure to function. Annu. Rev. Neuro- sci. 38, 269–289 
+- Mesulam, M. M. 1998. “From Sensation to Cognition.” Brain: A Journal of Neurology 121 ( Pt 6) (June): 1013–52.
+
 
 
 [W12]
 
-- Mobbs, Dean, Ralph Adolphs, Michael S. Fanselow, Lisa Feldman Barrett, Joseph E. LeDoux, Kerry Ressler, and Kay M. Tye. 2019. “Viewpoints: Approaches to Defining and Investigating Fear.” Nature Neuroscience 22 (8): 1205–16. (이은진)
-- Treede, Rolf-Detlef, Winfried Rief, Antonia Barke, Qasim Aziz, Michael I. Bennett, Rafael Benoliel, Milton Cohen, et al. 2019. “Chronic Pain as a Symptom or a Disease: The IASP Classification of Chronic Pain for the International Classification of Diseases (ICD-11).” Pain 160 (1): 19–27. (CHINH)
+- Mobbs, Dean, Ralph Adolphs, Michael S. Fanselow, Lisa Feldman Barrett, Joseph E. LeDoux, Kerry Ressler, and Kay M. Tye. 2019. “Viewpoints: Approaches to Defining and Investigating Fear.” Nature Neuroscience 22 (8): 1205–16. 
+- Treede, Rolf-Detlef, Winfried Rief, Antonia Barke, Qasim Aziz, Michael I. Bennett, Rafael Benoliel, Milton Cohen, et al. 2019. “Chronic Pain as a Symptom or a Disease: The IASP Classification of Chronic Pain for the International Classification of Diseases (ICD-11).” Pain 160 (1): 19–27. 
 
 [W13]
 
-- Man, Kingson, and Antonio Damasio. 2019. “Homeostasis and Soft Robotics in the Design of Feeling Machines.” Nature Machine Intelligence 1 (10): 446–52.(Hyebin Kim)
+- Man, Kingson, and Antonio Damasio. 2019. “Homeostasis and Soft Robotics in the Design of Feeling Machines.” Nature Machine Intelligence 1 (10): 446–52.
 - (n) Craig, a. D. Bud. 2009. “How Do You Feel–now? The Anterior Insula and Human Awareness.” Nature Reviews. Neuroscience 10 (1): 59–70.
 
 
 [W14]
 
 - Byeol Kim's lecture on "self"
-- Lisa Feldman Barrett, Batja Mesquita, and Eliot R. Smith, 2010, "The Context Principle", The Mind in Context, Chapter 1, p.1-24 (김정우)
-- Buckner, Randy L., and Daniel C. Carroll. 2007. “Self-Projection and the Brain.” Trends in Cognitive Sciences 11 (2): 49–57. (노지)
+- Lisa Feldman Barrett, Batja Mesquita, and Eliot R. Smith, 2010, "The Context Principle", The Mind in Context, Chapter 1, p.1-24 
+- Buckner, Randy L., and Daniel C. Carroll. 2007. “Self-Projection and the Brain.” Trends in Cognitive Sciences 11 (2): 49–57. 
 
 
 
