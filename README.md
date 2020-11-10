@@ -62,10 +62,10 @@ Week 8 (10/30) | mid-term |
 Week 9 (11/6) | Touch and nociception | Barrett2015 (Hongji), Chanes2016 (Eunjin+) |
 Week 10 (11/13) | Pain | Craig2003 (Donghee+), Raja2020 (Lada+)
 Week 11 (11/20) | Emotion theories and brain | Barbas2015 (Jaejoong), Mesulam1998 (Noji+)
-Week 12 (11/27) | Desire/emotion regulation, embodiment | Mobbs2019 (Eunjin+), Treede2019 (Chinh+)
-Week 13 (12/4) | Unconscious affect, Social Brain, Empathy | Man2019 (Hyebin+), Craig2009 (Sungwoo+)
-Week 14 (12/11)  | Self (Byeol) | Barrett2010 (Donghee+), Buckner2007 (Noji+)
-Week 15 (12/18) | Final | 
+Week 12 (11/27) | CNIR Workshop | 
+Week 13 (12/4) | Desire/emotion regulation, embodiment | Mobbs2019 (Eunjin+), Treede2019 (Chinh+)
+Week 14 (12/11) | Unconscious affect, Social Brain, Empathy | Man2019 (Hyebin+), Craig2009 (Sungwoo+)
+Week 15 (12/18)  | Self (Byeol) | Barrett2010 (Donghee+), Buckner2007 (Noji+)
 
 _Note._ Weekly plan described above can be adjusted as our class develops. (R): Review paper. (E): Empirical paper
 
